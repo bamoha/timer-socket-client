@@ -1,3 +1,7 @@
+## Socket Timer Client
+
+This is a timer application that consumes a socket.io endpoint to show time. I was using it to learn how socket works
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
